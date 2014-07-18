@@ -1,0 +1,121 @@
+<div class="row" id="resume">
+    <div class="row" id="education">
+        <div class="col-md-3"><h2>Education</h2></div>
+        <div class="col-md-9">
+            <ul>
+                <li>
+                    <h4>University of California Berkeley - Current</h4>
+                    <ul>
+                        <li>
+                        Currently pursuing a bachelors of 
+                        science degree in electrical engineering 
+                        and computer science
+                        </li>
+                        <li>
+                            Current GPA: 3.15
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <h4>Springbrook High School - Graduated 2012</h4>
+                    <ul>
+                        <li>
+                        Graduated from Academy of Information 
+                        Technology Program -  Major: Computer 
+                        Science
+                        </li>
+                        <li>
+                        Education in computer programming, 
+                        robotics, and advanced software 
+                        applications
+                        </li>
+                        <li>
+                        GPA: 3.86&nbsp;&nbsp;&nbsp;&nbsp;
+                        Weighted  GPA: 4.68
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <br>
+    <div class="row" id="workExperience">
+        <div class="col-md-3"><h2>Work Experience</h2></div>
+        <div class="col-md-9">
+            <ul>
+                <li>
+                    <h4>SocialPlex - October 2013 - Current</h4>
+                    <p>Implemented critical site redesigns as a front end developer</p>
+                </li>
+                <li>
+                    <h4>Department Of Defense - Summer 2013</h4>
+                    <p>Contact for further details</p>
+                </li>
+                <li>
+                    <h4>Governance Alive - 2011-2012</h4>
+                    <ul>
+                        <li>
+                        Summer paid internship working to create a networked computer application promoting decision making philosophies for John Buck, CEO of Governance Alive LLC
+                        </li>
+                        <li>
+                        Served as team lead and manager, directing a team of three through all stages of the application development process
+                        </li>	
+                        <li>
+                        Learned core methodologies on decision making and business consulting
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <h4>Lockheed Martin Information Systems and Global Solutions - Summer 2011</h4>
+                    <ul>
+                        <li>
+                        <p>Summer paid internship working with the Information Systems and Global Services (IS&GS) Division at Lockheed Martin</p>
+                        </li>
+                        <li>
+                        Helped maintain and regulate external and internal proprietary information on Lockheed Martin sites
+                        </li>	
+                        <li>
+                        Helped test and refine an introductory level cyber-security/ penetration testing     
+                         course. 
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <h4>FDA Imaging Radiation Metrology Lab - Summer 2010, 2011</h4>
+                    <ul>
+                        <li>
+                            Served to develop computer based radiation safety training modules by using PHP and MySQL
+                        </li>
+                        <li>
+                            Learned basics of radiation physics.
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <br>
+    <div class="row" id="Awards">
+        <div class="col-md-3"><h2>Awards</h2></div>
+        <div class="col-md-9">
+            <ul>
+                <li>
+                    <h4>2nd Place - Berkeley Student Technology Council Web App Competition 2013</h4>
+                    <ul>
+                        <li>
+                            <p>Quisque placerat nibh non eros vestibulum, eget pulvinar mauris elementum. Fusce mi diam, faucibus id arcu eu, molestie facilisis libero. Nullam quis enim commodo, viverra ipsum eget, interdum metus. Nam sed tristique lorem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In vel lacus vel erat volutpat auctor quis et orci. Donec sit amet risus quis neque adipiscing ultricies in ac sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <h4>Governance Alive 2011-2012</h4>
+                    <ul>
+                        <li>
+                    <p>Quisque placerat nibh non eros vestibulum, eget pulvinar mauris elementum. Fusce mi diam, faucibus id arcu eu, molestie facilisis libero. Nullam quis enim commodo, viverra ipsum eget, interdum metus. Nam sed tristique lorem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In vel lacus vel erat volutpat auctor quis et orci. Donec sit amet risus quis neque adipiscing ultricies in ac sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    </li>
+                </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
