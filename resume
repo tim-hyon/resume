@@ -1,58 +1,36 @@
-<div class="row" id="resume">
-    <div class="row" id="education">
-        <div class="col-md-3"><h2>Education</h2></div>
-        <div class="col-md-9">
-            <ul>
-                <li>
-                    <h4>University of California Berkeley - Current</h4>
-                    <ul>
-                        <li>
-                        Currently pursuing a bachelors of 
-                        science degree in electrical engineering 
-                        and computer science
-                        </li>
-                        <li>
-                            Current GPA: 3.15
-                        </li>
-                    </ul>
-                </li>
-                <li>
-                    <h4>Springbrook High School - Graduated 2012</h4>
-                    <ul>
-                        <li>
-                        Graduated from Academy of Information 
-                        Technology Program -  Major: Computer 
-                        Science
-                        </li>
-                        <li>
-                        Education in computer programming, 
-                        robotics, and advanced software 
-                        applications
-                        </li>
-                        <li>
-                        GPA: 3.86&nbsp;&nbsp;&nbsp;&nbsp;
-                        Weighted  GPA: 4.68
-                        </li>
-                    </ul>
-                </li>
-            </ul>
-        </div>
-    </div>
-    <br>
-    <div class="row" id="workExperience">
-        <div class="col-md-3"><h2>Work Experience</h2></div>
-        <div class="col-md-9">
-            <ul>
-                <li>
-                    <h4>SocialPlex - October 2013 - Current</h4>
-                    <p>Implemented critical site redesigns as a front end developer</p>
-                </li>
-                <li>
-                    <h4>Department Of Defense - Summer 2013</h4>
-                    <p>Contact for further details</p>
-                </li>
-                <li>
-                    <h4>Governance Alive - 2011-2012</h4>
+education
+University of California Berkeley - Current
+
+Currently pursuing a bachelors of 
+science degree in electrical engineering 
+and computer science
+
+Current GPA: 3.15
+
+Springbrook High School - Graduated 2012</h4>
+
+Graduated from Academy of Information 
+Technology Program -  Major: Computer 
+Science
+
+Education in computer programming, 
+robotics, and advanced software 
+applications
+
+GPA: 3.86&nbsp;&nbsp;&nbsp;&nbsp;
+Weighted  GPA: 4.68
+
+
+
+
+Work Experience
+SocialPlex - October 2013 - Current
+Implemented critical site redesigns as a front end developer
+
+Department Of Defense - Summer 2013
+Contact for further details
+
+Governance Alive - 2011-2012
                     <ul>
                         <li>
                         Summer paid internship working to create a networked computer application promoting decision making philosophies for John Buck, CEO of Governance Alive LLC
