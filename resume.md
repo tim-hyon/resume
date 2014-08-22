@@ -31,8 +31,8 @@ Work Experience
 ### Governance Alive - 2011-2012
 - Designed and implemented a networked computer application promoting decision making philosophies for John Buck, CEO of Governance Alive LLC
 
-- Served as team lead and manager, directing a team of three through all stages of the application development process
-Learned core methodologies on decision making and business consulting
+- Lead and managed a team of three through all stages of the application development process 
+- Learned core methodologies on decision making and business consulting
 
 ### Lockheed Martin Information Systems and Global Solutions - Summer 2011
 - Summer paid internship working with the Information Systems and Global Services (IS&GS) Division at Lockheed Martin
