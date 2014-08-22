@@ -22,12 +22,14 @@ Work Experience
 
 ### Intelligent Signal Processing Laboratory, Korea University - Winter 2013-2014 
 - Utilized non-negative matrix factorization to separate noisy actigraph and transportation signals into source signals for use in sleep detection
+- Conducted paper surveys on accelerometer based sleep/awake detection 
+- Implemented changes to sleep/awake detection algorithm with large improvements in detection rate
 
 ### Department Of Defense - Summer 2013
 - Contact for further details
 
 ### Governance Alive - 2011-2012
-- Summer paid internship working to create a networked computer application promoting decision making philosophies for John Buck, CEO of Governance Alive LLC
+- Designed and implemented a networked computer application promoting decision making philosophies for John Buck, CEO of Governance Alive LLC
 
 - Served as team lead and manager, directing a team of three through all stages of the application development process
 Learned core methodologies on decision making and business consulting
